@@ -11,6 +11,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { PensamentoComponent } from './componentes/pensamentos/pensamento/pensamento.component';
 import { HttpClientModule } from '@angular/common/http';
 import { ExcluirPensamentoComponent } from './componentes/pensamentos/excluir-pensamento/excluir-pensamento.component';
+import { EditarPensamentoComponent } from './componentes/pensamentos/editar-pensamento/editar-pensamento.component';
 
 
 
@@ -22,7 +23,8 @@ import { ExcluirPensamentoComponent } from './componentes/pensamentos/excluir-pe
     CriarPensamentosComponent,
     ListarPensamentoComponent,
     PensamentoComponent,
-    ExcluirPensamentoComponent
+    ExcluirPensamentoComponent,
+    EditarPensamentoComponent
   ],
   imports: [
     BrowserModule,    
