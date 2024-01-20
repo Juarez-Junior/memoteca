@@ -1,3 +1,58 @@
 {
-  "pensamentos": []
+  "pensamentos": [
+    {
+      "id": "1ff0",
+      "conteudo": "“Um dos meus dias mais produtivos foi quando eu joguei fora 1000 linhas de código.”",
+      "autoria": "Ken Thompson",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "c65e",
+      "conteudo": " “Inspecionar para prevenir defeitos é bom; Inspecionar para encontrar defeitos é desperdício.”",
+      "autoria": "Shigeo Shingo",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "bdd0",
+      "conteudo": "“Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.”",
+      "autoria": "Bill Gates",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "60e0",
+      "conteudo": "“Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.”",
+      "autoria": "Martin Fowler",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "7220",
+      "conteudo": "“Não é a linguagem de programação que define o programador, mas sim sua lógica.”",
+      "autoria": "David Ribeiro Guilherme",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "8769",
+      "conteudo": " “Antes do software poder ser reutilizável ele primeiro tem de ser utilizável.”",
+      "autoria": "Ralph Johnson",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "a811",
+      "conteudo": "“Nove pessoas não podem fazer um bebê em um mês.”",
+      "autoria": "Fred Brooks",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "6cd1",
+      "conteudo": "“Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.”",
+      "autoria": "Rafael Lain",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "0f4d",
+      "conteudo": "“A genialidade é 1% inspiração e 99% transpiração.”",
+      "autoria": "Thomas Edson",
+      "modelo": "modelo1"
+    }
+  ]
 }
